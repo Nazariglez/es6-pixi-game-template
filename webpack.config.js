@@ -28,6 +28,7 @@ module.exports = {
   resolve: {
     extensions: ["", ".js"]
   },
+  plugins: plugins,
 	module: {
     postLoaders: [
       {

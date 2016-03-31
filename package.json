@@ -20,11 +20,11 @@
     "brfs": "^1.4.1",
     "json-loader": "^0.5.4",
     "pixi-animationloop": "^1.0.7",
-    "pixi-audio": "^0.9.1",
+    "pixi-audio": "^0.1.0",
     "pixi-keyboard": "^0.9.3",
     "pixi-scene": "^0.9.1",
     "pixi-timer": "^1.0.0",
-    "pixi-tween": "^0.9.0",
+    "pixi-tween": "^0.1.2",
     "pixi.js": "^3.0.8",
     "transform-loader": "^0.2.3",
     "webpack": "^1.12.9"
